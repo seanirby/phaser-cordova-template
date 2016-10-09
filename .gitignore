@@ -1,0 +1,9 @@
+node_modules
+.tern-port
+.tern-project
+*.log
+*.tmp
+notes.org
+platforms/*
+plugins/*
+!www/.gitignore
